@@ -1,2 +1,2 @@
-# mongodb-node
-Practice app in node to work with mongodb.
+# MongoDB and Node.js Practice
+Practice app in node to work with MongoDB.
